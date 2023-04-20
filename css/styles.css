@@ -20,3 +20,12 @@ h2 {
 h3 {
   font-size: 3rem;
 }
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #111;
+}
